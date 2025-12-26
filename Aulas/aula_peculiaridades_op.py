@@ -2,6 +2,7 @@
 # A concatenação usa o + e a repetição usa o *
 # Na concatenação tomar cuidado para não misturar as tipagens, ex: int + str, pois isso da erro no python, qualquer coisa so fazer a coerção dele
 # Na repetição tem que usar o int e uma string
+# Na concatenção usar int + float ou string + string
 
 
 concatenacao = "C" + 'R' + "L" + 'F'
